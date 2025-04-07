@@ -9,7 +9,7 @@ de 81 ou o formato não esteja de acordo com o exigido será gerado um jogo alea
 | Linha | `número inteiro de 0 a 8` |
 | Coluna | `número inteiro de 0 a 8` |
 | Valor | `número inteiro de 1 a 9` |
-| Visibilidade | `true` para o valor padrão (gerado pelos args ou aleatóriamente pelo programa) ser visível na tabela <br>para ficar como dica para o jogador e <br> `false` para o valor padrão não ficar visível|
+| Visibilidade | `true` para o valor padrão (gerado pelos args ou <br>aleatóriamente pelo programa) ser visível na tabela <br>para ficar como dica para o jogador e `false` <br>para o valor padrão não ficar visível|
 
 ## Sudoku no Terminal
 Permite jogar Sudoku por meio do terminal, onde é exibido um Menu que permite o usuário iniciar um novo jogo, 
